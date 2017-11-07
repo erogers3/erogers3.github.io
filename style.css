@@ -1,0 +1,17 @@
+body {background-color: rgb(160, 213, 248);}
+
+.title {text-align:center; margin:auto auto; border-style: dotted; font-family: "Courier New"; background: rgb(129, 177, 253)}
+
+.vertical-menu {
+    width: 200px;}
+.vertical-menu a {
+    background-color: #eee; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 15px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */}
+.vertical-menu a:hover {
+    background-color: #ccc; /* Dark grey background on mouse-over */}
+.vertical-menu a.active {
+    background-color: #d9b3ff; /* Adds purple color to the "active/current" link */
+    color: white;}
