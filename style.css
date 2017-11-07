@@ -15,3 +15,7 @@ body {background-color: rgb(160, 213, 248);}
 .vertical-menu a.active {
     background-color: #d9b3ff; /* Adds purple color to the "active/current" link */
     color: white;}
+
+#body{text-align:center}
+
+td {vertical-align:top;}
